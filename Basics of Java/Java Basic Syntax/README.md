@@ -70,7 +70,7 @@ There 're three types of comments in Java:
 */
 ```
 
-***iii. Documentation Comment (Doc comment)**
+**iii. Documentation Comment (Doc comment)**
 ```java
 /**
  * This is a documentation comment.
