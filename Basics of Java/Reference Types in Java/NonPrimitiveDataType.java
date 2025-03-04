@@ -14,7 +14,7 @@ public class NonPrimitiveDataType {
         // Parallel arrays type of data type
         String nameOfPerson = "Rana Smarty";
         int ageOfPerson = 21;
-        double heightPerson = 5.10;
+        double heightPerson = 5.10d;
 
         // Displaying to the console...
         System.out.println(greetingUser);
@@ -25,7 +25,7 @@ public class NonPrimitiveDataType {
         }
         System.out.println();
 
-        System.out.println("Person Name: " + nameOfPerson + ".");
+        System.out.println("Person Name: " + nameOfPerson);
         System.out.println("Age: " + ageOfPerson + ".");
         System.out.println("Height: " + heightPerson + "Feet.");
 
