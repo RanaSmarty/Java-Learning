@@ -1,4 +1,4 @@
-public class PrimativeDataType {
+public class PrimitiveDataType {
 
     public static void main(String[] args) {
         

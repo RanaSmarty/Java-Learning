@@ -1,4 +1,4 @@
-public class NonPrimativeDataType {
+public class NonPrimitiveDataType {
 
     public static void main(String[] args) {
         
