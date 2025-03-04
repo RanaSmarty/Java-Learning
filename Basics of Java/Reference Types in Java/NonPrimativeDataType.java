@@ -4,8 +4,9 @@ public class NonPrimativeDataType {
         
         // String type of data type
         String greetingUser = "Asslamu Alaiqum Wa-Rohmatullah!";
-        String greetWorld = "Hello World!";
-        String greetJava = "Hey, Java!";
+        
+        // String greetWorld = "Hello World!";
+        // String greetJava = "Hey, Java!";
 
         // Array type data type
         int [] numbers = {1,2, 3, 4, 5};
