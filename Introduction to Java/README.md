@@ -1,16 +1,18 @@
-# welcomeToGitHub Program
+# welcomeToGitHub & heyJava Program
 
-This is a simple Java program that prints a welcoming message to developers joining the GitHub world.
+This is a simple Java program that prints a welcoming message to developers joining the Java and GitHub world.
 
 ## Description
 
 The program prints the following message to the console:
 
 Hey developers, Welcome to GitHub World!
+and 
+Hey, Java World!
 
 
 
-It is a basic example for learning how to use Git and GitHub and serves as an introduction to working with repositories.
+It is a basic example for learning how to use Java, Git, and GitHub and serves as an introduction to working with repositories.
 
 ## Requirements
 
@@ -30,12 +32,14 @@ cd Java-Learning
 
 3. Compile the Java program:
 javac welcomeToGitHub.java
+javac heyJava.java
 
 
-4. Run the program:java welcomeToGitHub
+4. Run the program: java welcomeToGitHub and java heyJava
 
 **You should see the message:**
 Hey developers, Welcome to GitHub World!
+Hey, Java World!
 
 
 ## Contributing
