@@ -22,3 +22,72 @@ Primitive data types hold only single values and don't have special capabilities
 |  `float`  | 4 bytes  | `0.0f`            | Single-precision decimal (up to 7 decimal places) |
 |  `double` | 8 bytes  | `0.0d`            | Double-precision decimal (up to 16 decimal places) |
 |   `char`  | 2 bytes  | `\u0000`          | Single character (Unicode-based) |
+
+### Example of Primitive Data Types in Java
+```java
+public class PrimitiveDataType {
+    puclic static void main(String[] args) {
+
+        boolean flag = true;
+        byte smallNumber = 1;
+        short shortNumber = 4999;
+        int integerNumber = 100000;
+        long largeNumber = 150000L;
+        float floatNumber = 9.8f;
+        double doubleNumber = 5.10d;
+        char character = 'R';
+
+        System.out.println("Boolean: " + flag);
+        System.out.println("Byte: " + smallNumber);
+        System.out.println("Short: " + shortNumber);
+        System.out.println("Integer: " + integerNumber);
+        System.out.println("Long: " + largeNumber);
+        System.out.println("Float: " + floatNumber);
+        System.out.println("Double: " + doubleNumber);
+        System.out.println("Char: " + character);
+        
+        return;
+    }
+}
+```
+
+## 2. Non-Primitive (Reference) Data Types 
+Reference data types store memory address instead of raw values. Examples includes Strings, Arrays, Classes, and Objects.
+
+### String Data Type
+Strings are sequences of characters enclosed in double quotes.
+
+```java 
+String message = "Welcome to GitHub!";
+```
+
+### Array Data Type
+Arrays store multiple values of the same type.
+
+```java
+int[] numbers = {10, 20, 30, 40, 50};
+```
+
+### Class and Object
+A class is a blueprint (plans) for objects, and Objects are instances of classes.
+```Java
+class Car {
+    String model = "Supra";
+} 
+
+public class Main {
+    public static void main(String[] args) {
+
+        Car myCar = new Car();
+        System.out.println(myCar.model);
+        return;
+    }
+}
+```
+## Key Points
+- Java enforces strict type-checking at compile-time..
+- Strings are immutable, meaning they can't be changed after creation.
+- Arrays have fixed lengths once declared.
+
+## Conclusion
+Understanding Java's data types is crucial for effective programming. Choosing the correct data type ensures efficient memory usage and program performance.
