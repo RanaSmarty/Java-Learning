@@ -89,5 +89,22 @@ public class Main {
 - Strings are immutable, meaning they can't be changed after creation.
 - Arrays have fixed lengths once declared.
 
+## 3. Differences between Primitive and Non-Primitive Data Types:
+
+| Feature             | Primitive Data Types     | Non-Primitive Data Types  |
+|---------------------|--------------------------|---------------------------|
+| **Definition**      | Stores single values     | Stores references to objects |
+| **Memory Usage**    | Requires less memory     | Requires more memory      |
+| **Operations**      | Supports arithmetic      | Can call methods and functions |
+| **Examples**        | `int, char, boolean`     | `String, Arrays, Objects` |
+| **Stored in**       | Stack memory             | Heap memory               |
+
+### Quick Example:
+```java
+int number = 99; // Primitive data type
+String text = "Hi..!"; // Non-Primitive data type
+```
+
+
 ## Conclusion
 Understanding Java's data types is crucial for effective programming. Choosing the correct data type ensures efficient memory usage and program performance.
