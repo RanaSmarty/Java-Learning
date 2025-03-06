@@ -7,7 +7,7 @@ Java is a statically typed and strongly typed language. Every data type (such as
 Java data types are categorized into two main types:
 
 1. **Primitive Data Types** - Includes boolean, char, int, short, byte, long, float, and double.
-2. **Non-Primitive (Reference) Data Types** - Includes String, Arrays, Classes, objects, and Iterfaces.
+2. **Non-Primitive (Reference) Data Types** - Includes String, Arrays, Classes, objects, and Interfaces.
 
 ## 1. Primitive Data Types 
 Primitive data types hold only single values and don't have special capabilities. Java provides eight primitive data types: 
@@ -26,7 +26,7 @@ Primitive data types hold only single values and don't have special capabilities
 ### Example of Primitive Data Types in Java
 ```java
 public class PrimitiveDataType {
-    puclic static void main(String[] args) {
+    public static void main(String[] args) {
 
         boolean flag = true;
         byte smallNumber = 1;
@@ -52,7 +52,7 @@ public class PrimitiveDataType {
 ```
 
 ## 2. Non-Primitive (Reference) Data Types 
-Reference data types store memory address instead of raw values. Examples includes Strings, Arrays, Classes, and Objects.
+Reference data types store memory address instead of raw values. Examples include Strings, Arrays, Classes, and Objects.
 
 ### String Data Type
 Strings are sequences of characters enclosed in double quotes.
@@ -68,9 +68,9 @@ Arrays store multiple values of the same type.
 int[] numbers = {10, 20, 30, 40, 50};
 ```
 
-### Class and Object
+### Classes and Objects
 A class is a blueprint (plans) for objects, and Objects are instances of classes.
-```Java
+```java
 class Car {
     String model = "Supra";
 } 
