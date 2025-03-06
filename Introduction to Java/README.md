@@ -21,7 +21,7 @@ It is a basic example for learning how to use Java, Git, and GitHub and serves a
 - GitHub account (for hosting the repository)
 
 ## How to Run
-
+```sh
 1. Clone this repository to your local machine:
 
 *git clone https://github.com/RanaSmarty/Java-Learning.git*
