@@ -43,4 +43,4 @@ Feel free to fork the repository, submit pull requests, or open issues if you fi
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](#license) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/RanaSmarty/Java-Learning/blob/main/LICENSE) file for details.
