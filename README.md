@@ -31,7 +31,7 @@ To get a local copy of this repository up and running on your machine, follow th
 
 3. **Open the project in your preferred IDE.**
     
-    You can use Visual Studio Code (VS Code), IntelliJ IDEA, or any IDE that supports Java development.
+    You can use [Visual Studio Code (VS Code)](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), or any IDE that supports Java development.
 
 ## Projects
 
