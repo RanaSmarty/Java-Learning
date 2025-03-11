@@ -129,4 +129,93 @@ Name: Rana Smarty
 Age: 21
 ```
 
-## 3.
+## 3. Static Variables
+Static variables are declared inside a class with the `static` keyword.
+
+**Characteristics:**
+- Shared among all instances of the class.
+- Created when the program starts & destroyed when the program stops.
+- Can be accessed directly using the class name.
+
+### Example:
+
+```java
+// Java example to demonstrate Static Variables...
+
+class StaticVariable {
+
+    // Static variable
+    static String company = "Medinet Hospital";
+
+    public static void main(String[] args) {
+
+        // Accessing Static Variable without object creaton;
+        System.out.println("Company: " + StaticVariable.company);
+    }
+}
+```
+### Output:
+```bash
+Company: Medinet Hospital
+```
+
+## Differences between Instance Variables and Static Variables
+
+| **Feature** | **Instance Variable** | **Static Variable** |
+|-------------|-----------------------|---------------------|
+| **Declaration** | Inside a class (no `static`keyword) | Inside a class with `static` keyword |
+| **Scope** | Exits per object | Shared across all objects |
+| **Access** | Requires object creation | Can be accessed using class name |
+| **Memory** | Allocated per object | Single memory allocation in class area |
+
+### Example:
+
+```java
+class InstanceVsStaticVariable {
+    
+    // declared an Instance variable and stored value
+    int instanceVariable = 21;
+
+    // Declared a Static Variable
+    static int staticVariable = 22; 
+
+    public static void main(String [] args) {
+
+        InstanceVsStaticVariable obj1 = new InstanceVsStaticVariable();
+        InstanceVsStaticVariable obj2 = new InstanceVsStaticVariable();
+
+        obj1.instanceVariable += 4;
+        obj2.staticVariable += 4;
+
+        System.out.println("Object 1 - Instance Variable: " + obj1.instanceVariable); // 25
+        
+        // An extra example for Instance Variable... (obj2) but essential;
+        System.out.println("Object 2 - Instance variable: " + obj2.instanceVariable); // 21
+        System.out.println();
+        System.out.println("Difference...");
+        System.out.println();
+        System.out.println("Static Variable: " + InstanceVsStaticVariable.staticVariable); // 26
+    }
+}
+```
+
+### Output:
+```badh
+Object 1 - Instance Variable: 25
+Object 2 - Instance Variable: 21
+
+Difference...
+
+Static Variable: 26
+```
+## Summary
+- **Variables** store data values in `Java`.
+- **Local Variables** exist only inside methods, blocks, or constructors.
+- **Instance Variable** exist within object, declared inside classes bu outside methodds.
+- **Static Variables** are shared among all objects of a class, declared with the `static` keyword.
+
+## Conclusion
+
+In Java, variables are fundamental building blocks that enable data storage and manipulation. Understading the differences between **Local, Instance, and Static Variables** is crucial for efficient programming. local variables are temporary and limited to methods or blocks, while Instance variables are associated with objects and maintain their state throughout an object's lifespan. Static variable, on the other hand, are shared among all insatance of a class, providing a way to manage shared data efficiently.
+
+***Note:** Mastering Java variables is essential for writing clean, efficient, and maintainable code..!*
