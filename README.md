@@ -7,6 +7,7 @@ Welcome to the Java-Learning repository! This project conatins various Java lear
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Projects](#projects)
+- [Java Learning Chapters](#java-learning-chapters)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -36,6 +37,18 @@ To get a local copy of this repository up and running on your machine, follow th
 ## Projects
 
 In this repository, you will find varios Java projects for beginner to practice your coding skills, ranging from basic syntax exercise to more advanced topics.
+
+## Java Learning Chapters
+
+| **Chapter** | **Description** |
+|-------------|-----------------|
+| [Introduction to Java](https://github.com/RanaSmarty/Java-Learning/blob/main/Introduction%20to%20Java/README.md) | Basic introduction to Java programming language. |
+| [First Java Program](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/First%20Java%20Program/README.md) | Writing and understanding your first Java program. |
+| [Identifiers](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Identifiers/README.md) | Understanding Java Identifiers and Naming Conventions. |
+| [Java Basic Syntax](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Java%20Basic%20Syntax/README.md) | Overview of basic syntax used in Java. |
+| [Java Keywords]() | Overview of Java keywords and their usage. |
+| [Reference Types in Java](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Reference%20Types%20in%20Java/README.md) | Explanation of reference types in Java. |
+| [Variables](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Variables/README.md) | Understanding variables and their types. |
 
 ## Contributing
 
