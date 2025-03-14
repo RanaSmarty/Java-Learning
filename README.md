@@ -46,7 +46,7 @@ In this repository, you will find varios Java projects for beginner to practice 
 | [First Java Program](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/First%20Java%20Program/README.md) | Writing and understanding your first Java program. |
 | [Identifiers](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Identifiers/README.md) | Understanding Java Identifiers and Naming Conventions. |
 | [Java Basic Syntax](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Java%20Basic%20Syntax/README.md) | Overview of basic syntax used in Java. |
-| [Java Keywords]() | Overview of Java keywords and their usage. |
+| [Java Keywords](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Java%20Keyword/README.md) | Overview of Java keywords and their usage. |
 | [Reference Types in Java](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Reference%20Types%20in%20Java/README.md) | Explanation of reference types in Java. |
 | [Variables](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Variables/README.md) | Understanding variables and their types. |
 
