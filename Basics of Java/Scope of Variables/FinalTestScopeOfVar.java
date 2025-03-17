@@ -3,6 +3,7 @@ public class FinalTestScopeOfVar {
     static int x = 21;
     private int y = 25;
 
+    @SuppressWarnings("static-access")
     public void method1(int x) {
         FinalTestScopeOfVar ScopeVariable = new FinalTestScopeOfVar();
         this.x = 22; // Modifies the static field x
