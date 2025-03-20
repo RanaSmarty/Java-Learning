@@ -49,6 +49,7 @@ In this repository, you will find varios Java projects for beginner to practice 
 | [Java Keywords](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Java%20Keyword/README.md) | Overview of Java keywords and their usage. |
 | [Reference Types in Java](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Reference%20Types%20in%20Java/README.md) | Explanation of reference types in Java. |
 | [Variables](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Variables/README.md) | Understanding variables and their types. |
+| [Scope of Variables]()
 
 ## Contributing
 
