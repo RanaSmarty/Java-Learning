@@ -184,6 +184,8 @@ cannot find symbol
 
 [View the Final Test Scope of Variable Program](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Variables/Scope%20of%20Variables/FinalTestScopeOfVar.java) 
 
+### Output of FinalTestScopeOfVar: 
+
 ```bash
 Static variable from main method: 10
 Instance variable from main method (accessing through object): 25
