@@ -105,7 +105,7 @@ pulic class InstanceScopeExample {
 |--------------|-------------|--------------|-----------|
 | public | Yes | Yes | Yes |
 | protected | Yes | Yes | No |
-| Defailt (no modifier) | | Yes | No | No |
+| Default (no modifier) | Yes | No | No |
 | private | No | No | No |
 
 
@@ -146,6 +146,7 @@ public class MethodParameterScopeExample {
     }
 }
 ```
+
 - The `this` keyword is used to differentiate between the instance variable ans the method parameter.
 
 ## Block Scope (Loops, Conditionals, etc)
@@ -165,6 +166,18 @@ public class BlockSpoceExample {
 }
 ```
 
+### Output
+
+```bash
+Inside if block: 50
+
+```
+If you try to access `number` outside the `if` block, you would get an error like:
+
+```bash
+cannot find symbol
+    symbol: variable number
+```
 
 
 ### Here's a complete program that covers all these concepts:
