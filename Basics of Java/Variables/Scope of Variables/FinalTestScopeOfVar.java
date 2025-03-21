@@ -47,4 +47,4 @@ public class FinalTestScopeOfVar {
         System.out.println("Updated Static variable from main method: " + FinalTestScopeOfVar.classVariable);
         System.out.println("Updated Instance variable from main method: " + obj.instanceVariable);
     }
-}    
+} 
