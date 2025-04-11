@@ -51,6 +51,7 @@ In this repository, you will find varios Java projects for beginner to practice 
 | [Variables](https://github.com/RanaSmarty/Java-Learning/blob/main/Basics%20of%20Java/Variables/README.md) | Understanding variables and their types. |
 | [Scope of Variables](https://github.com/RanaSmarty/Java-Learning/tree/main/Basics%20of%20Java/Variables/Scope%20of%20Variables) | Understanding the scope of variables in Java, including their lifetime and accessibility within different parts of a program. |
 | [Wrapper Classes](https://github.com/RanaSmarty/Java-Learning/tree/main/Basics%20of%20Java/Wrapper%20classes) | Understanding wrapper classes in Java, which are used to convert primitive types into objects and provide methods for manipulating them. |
+| [Java I/O](https://github.com/RanaSmarty/Java-Learning/tree/main/Java%20IO) | Covers various ways to take input and print output in Java, including Scanner, BufferedReader, Console, and formatted output techniques. |
 
 ## Contributing
 
