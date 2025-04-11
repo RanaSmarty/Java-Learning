@@ -16,6 +16,6 @@ In Java, printing output to the console is a basic but essential operation. The 
 
 Java provides flexible options for printing to the console
 
-- Use `print()` for inline output. 
+- Use `print()` for inline output.
 - `println()` for line-by-line output, and
-- `printf()` when formatting is required. 
+- `printf()` when formatting is required.
